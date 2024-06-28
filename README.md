@@ -9,8 +9,8 @@ Bu proje, JavaScript, HTML ve Bootstrap kullanılarak geliştirilmiş bir proje 
 ## Nasıl Çalıştırılır
  ```bash
 1. Depoyu klonlayın:
-  
-   git clone https://github.com/seher-akbas/Proje-Yonetimi.git
+  git clone https://github.com/seher-akbas/Proje-Yonetimi.git
+
 2. Proje klasörüne gidin
    cd Proje-Yonetimi
    
