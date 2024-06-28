@@ -1,0 +1,37 @@
+{
+    "personal1":{
+        "name": "seher",
+        "surname": "akbas",
+        "projectID": 3
+
+    },
+    "personal2":{
+        "name": "kadir",
+        "surname": "ay",
+        "projectID": 2
+
+    },
+    "personal3":{
+        "name": "öznur",
+        "surname": "çınar",
+        "projectID": 3
+    },
+    "personal4":{
+        "name": "hanifi",
+        "surname": "çınar",
+        "projectID": 2
+
+    },
+    "personal5":{
+        "name": "emine",
+        "surname": "çalışkan",
+        "projectID": 1
+
+    },
+    "personal6":{
+        "name": "mete",
+        "surname": "çalışkan",
+        "projectID": 2
+    }
+
+}

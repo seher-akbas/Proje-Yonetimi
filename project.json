@@ -1,0 +1,18 @@
+{
+    "poject1":{
+        "projeID": 1,
+        "projeAdi": "ERP",
+        "ProjeSaat": 1460
+
+    },
+    "poject2":{
+        "projeID": 2,
+        "projeAdi": "Donanım",
+        "ProjeSaat": 1240
+    },
+    "poject3":{
+        "projeID": 3,
+        "projeAdi": "Web Sitesi",
+        "ProjeSaat": 240
+    }
+}
